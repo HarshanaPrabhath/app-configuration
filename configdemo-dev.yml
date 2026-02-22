@@ -1,5 +1,5 @@
 build:
   id: 201201
   version: 1.2.0.0
-  name: "PROD-GIT-Production-build"
-  type: "GIT Production Build"
+  name: "PROD-GIT-Development-build"
+  type: "GIT Development Build"
